@@ -4,18 +4,6 @@ using namespace std;
 
 void main()
 {
-	int inteiro;
-	long int inteiroLong;
-	long long int inteiroLongLong;
-	short int inteiroShort;
-	unsigned int inteiroUnsigned;
-	unsigned long int inteiroUnsignedLong;
-	unsigned long long int inteiroUnsignedLongLong;
-	short unsigned int inteiroShortUnsigned;
-	signed int inteiroSigned;
-	signed long int inteiroSignedLong;
-	signed long long int inteiroSignedLongLong;
-	short signed int inteiroShortSigned;
 
 	cout << "Variaveis em Bytes" << endl;
 	cout << "Inteiro com: " << sizeof(int) << " bytes" << endl;
